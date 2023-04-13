@@ -1,0 +1,16 @@
+__pycache__
+.vscode
+temp_*.py
+.pytest_cache
+.coverage
+coverage.xml
+report.xml
+logs/*
+.hypothesis
+sys.log
+/build
+/dist
+/src/*.egg-info
+/log
+.tox
+.mypy_cache
